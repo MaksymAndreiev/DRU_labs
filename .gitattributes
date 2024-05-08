@@ -1,1 +1,2 @@
-*.ipynb linguist-language=Python, Jupyter Notebook
+*.ipynb linguist-language=Python
+*.ipynb linguist-language=Jupyter Notebook
